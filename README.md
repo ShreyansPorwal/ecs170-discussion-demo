@@ -1,1 +1,1 @@
-# ecs170-discussion-deom
+# ecs170-discussion-demo
